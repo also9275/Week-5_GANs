@@ -1,1 +1,1 @@
-# Week-5_GANs
+# Week-5 - GAN (Cycle GAN) implementation
